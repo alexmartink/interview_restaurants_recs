@@ -1,0 +1,23 @@
+[
+    {
+        "displayName": "John Doe",
+        "mailNickname": "john.doe",
+        "userPrincipalName": "john.doe@example.com",
+        "password": "P@ssw0rd123",
+        "roles": ["RestaurantCreator"]
+    },
+    {
+        "displayName": "Jane Smith",
+        "mailNickname": "jane.smith",
+        "userPrincipalName": "jane.smith@example.com",
+        "password": "Secret123",
+        "roles": ["RequestLogViewer"]
+    },
+    {
+        "displayName": "Alice Johnson",
+        "mailNickname": "alice.johnson",
+        "userPrincipalName": "alice.johnson@example.com",
+        "password": "SecurePwd456",
+        "roles": ["RestaurantCreator", "RequestLogViewer"]
+    }
+]
